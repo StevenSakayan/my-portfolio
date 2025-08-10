@@ -4,8 +4,8 @@ import Window from './Window.vue';
 </script>
 
 <template>
-	<Window title="Development Skills">
-		<div class="px-20 py-10">
+	<Window title="Development Skills.exe">
+		<div class="px-10 py-10">
 			<div class="flex flex-wrap justify-center gap-5">
 			<Skill name="Java" image="/images/java-original.svg"/>
 			<Skill name="C#" image="/images/csharp-plain.svg"/>

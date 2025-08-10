@@ -4,9 +4,8 @@ import Project from './Project.vue';
 </script>
 
 <template>
-	<Window title="Projects">
+	<Window title="Projects.exe">
 	    <div class="px-20 py-10">
-	      <h1 class="text-3xl py-5">Projects</h1>
 	      <div class="carousel carousel-center w-full gap-5 overflow-x-auto">
 	        <Project name="Field Alert" image="/images/field-alert.png">
 	          <ul class="list-disc list-inside">
