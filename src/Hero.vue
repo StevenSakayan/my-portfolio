@@ -6,7 +6,7 @@ import Window from './Window.vue';
 
 <template>
 	<div class="h-screen flex items-center justify-center">
-		<Window class="" title="Hello World.exe">
+		<Window class="" title="Hello World.cmd">
 			<div class="flex items-center h-auto gap-2 p-10">
 				<div class="">
 					<BinaryTyper text="Hello World!" :speed="30" class="w-80 text-left text-3xl font-bold"></BinaryTyper>

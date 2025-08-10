@@ -4,7 +4,7 @@ import Project from './Project.vue';
 </script>
 
 <template>
-	<Window title="Projects.exe">
+	<Window title="Projects.pptx">
 	    <div class="px-20 py-10">
 	      <div class="carousel carousel-center w-full gap-5 overflow-x-auto">
 	        <Project name="Field Alert" image="/images/field-alert.png">

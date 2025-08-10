@@ -3,3 +3,9 @@
 		<slot></slot>
 	</button>
 </template>
+
+<style>
+	 button:active {
+		translate: 0 0;
+	 }
+</style>
