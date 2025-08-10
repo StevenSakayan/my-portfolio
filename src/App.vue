@@ -2,21 +2,15 @@
 import Hero from './Hero.vue'
 import About from './About.vue'
 import Skills from './Skills.vue'
+import Projects from './Projects.vue'
 
 </script>
 
 <template>
   <Hero />
-  <About />
-  <Skills />
-  <div class="px-20 py-10">
-    <h1 class="text-3xl py-5">Projects</h1>
-    <div class="carousel carousel-center gap-5">
-      <div class="carousel-item ">
-        <h2 class="text-2xl">Field-Alert</h2>
-      </div>
-    </div>
-  </div>
+  <About class="mx-20 my-20"/>
+  <Skills class="mx-20 my-20"/>
+  <Projects class="mx-20 my-20"/>
 </template>
 
 <style scoped>

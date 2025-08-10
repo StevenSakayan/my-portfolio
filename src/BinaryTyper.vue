@@ -35,9 +35,11 @@
                 binOutput.value = '';
 
                 currentLetterIndex++;
-                setTimeout(() => {
-                    typeNextLetter();
-                }, 50);
+                if (currentLetterIndex != props.text.length) {
+                    setTimeout(() => {
+                        typeNextLetter();
+                    }, 50);
+                }
             }
         }, props.speed);
     }
