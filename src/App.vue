@@ -9,10 +9,10 @@ import Education from './Education.vue'
 
 <template>
   <Hero />
-  <About class="mx-20 my-20"/>
+  <About class="mx-auto my-20 max-w-3xl"/>
   <Skills class="mx-20 my-20"/>
   <Projects class="mx-20 my-20"/>
-  <Education class="mx-20 my-20"/>
+  <Education class="mx-auto my-20 w-fit"/>
 </template>
 
 <style scoped>
