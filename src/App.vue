@@ -6,6 +6,7 @@
   import Education from './EducationSection.vue'
 
   import { onMounted } from 'vue'
+import FooterComp from './FooterComp.vue'
 
   onMounted(() => {
     document.title = "Steven's Portfolio"
@@ -19,6 +20,7 @@
     <Skills class="mx-auto max-w-fit my-20"/>
     <Projects class="mx-auto my-20 max-w-fit"/>
     <Education class="mx-auto my-20 max-w-fit"/>
+    <FooterComp />
   </div>
 </template>
 
