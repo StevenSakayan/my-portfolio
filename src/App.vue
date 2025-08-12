@@ -1,10 +1,15 @@
 <script setup>
-import Hero from './HeroSection.vue'
-import About from './AboutSection.vue'
-import Skills from './SkillsSection.vue'
-import Projects from './ProjectsSection.vue'
-import Education from './EducationSection.vue'
+  import Hero from './HeroSection.vue'
+  import About from './AboutSection.vue'
+  import Skills from './SkillsSection.vue'
+  import Projects from './ProjectsSection.vue'
+  import Education from './EducationSection.vue'
 
+  import { onMounted } from 'vue'
+
+  onMounted(() => {
+    document.title = "Steven's Portfolio"
+  })
 </script>
 
 <template>
