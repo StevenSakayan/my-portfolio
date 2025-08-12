@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import BinaryTyper from './BinaryTyper.vue';
-import Window from './Window.vue';
+import Window from './WindowContainer.vue';
 
 </script>
 

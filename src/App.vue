@@ -1,9 +1,9 @@
 <script setup>
-import Hero from './Hero.vue'
-import About from './About.vue'
-import Skills from './Skills.vue'
-import Projects from './Projects.vue'
-import Education from './Education.vue'
+import Hero from './HeroSection.vue'
+import About from './AboutSection.vue'
+import Skills from './SkillsSection.vue'
+import Projects from './ProjectsSection.vue'
+import Education from './EducationSection.vue'
 
 </script>
 

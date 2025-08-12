@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import Window from './Window.vue';
-import Project from './Project.vue';
+import Window from './WindowContainer.vue';
+import Project from './ProjectCard.vue';
 </script>
 
 <template>

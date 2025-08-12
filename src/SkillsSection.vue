@@ -1,6 +1,6 @@
 <script setup>
-	import Skill from './Skill.vue'
-import Window from './Window.vue';
+	import Skill from './SkillBubble.vue'
+import Window from './WindowContainer.vue';
 </script>
 
 <template>
