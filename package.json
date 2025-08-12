@@ -1,8 +1,9 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://stevensakayan.github.io/my-portfolio/",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://stevensakayan.github.io/my-portfolio",
+
   "type": "module",
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
