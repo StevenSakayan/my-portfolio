@@ -9,7 +9,7 @@ import Window from './Window.vue';
 		<Window class="" title="Hello World.cmd">
 			<div class="flex items-center h-auto gap-2 p-10 max-md:flex-col">
 				<div class="">
-					<BinaryTyper text="Hello World!" :speed="30" class="max-w-80 max-h-20 text-left text-3xl font-bold"></BinaryTyper>
+					<BinaryTyper text="Hello World!" :speed="30" class="max-w-80 max-h-20 text-left text-3xl font-bold overflow-hidden text-clip"></BinaryTyper>
 					<h2 class="text-2xl">Welcome to my Portfolio!</h2>
 				</div>
 				<div class="divider divider-horizontal max-md:divider-vertical"></div>

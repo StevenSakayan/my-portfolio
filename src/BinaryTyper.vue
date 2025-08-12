@@ -60,6 +60,6 @@
 <template>
     <div>
         <div class="inline-block">{{output}}</div>
-        <div class="inline-block text-slate-500 font-medium pl-2">{{binOutput}}</div>
+        <div class="inline-block text-slate-500 text-xl font-medium pl-2">{{binOutput}}</div>
     </div>
 </template>

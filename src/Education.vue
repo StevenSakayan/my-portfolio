@@ -6,7 +6,7 @@ import Window from './Window.vue';
 
 <template>
     <Window title="Education.pdf">
-        <div class="px-20 py-10">
+        <div class="px-20 py-10 max-sm:px-8">
             <h1 class="text-2xl font-bold">Bachelor of Information Technology</h1>
             <h1 class="text-xl">Specialisation in Software Development</h1>
             <h2 class="text-lg italic">Charles Sturt University | 2023 - Present</h2>

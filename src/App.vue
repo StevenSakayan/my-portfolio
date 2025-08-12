@@ -8,7 +8,7 @@ import Education from './Education.vue'
 </script>
 
 <template>
-  <div class="p-10">
+  <div class="p-10 max-sm:p-6">
     <Hero />
     <About class="mx-auto my-20"/>
     <Skills class="mx-auto max-w-fit my-20"/>

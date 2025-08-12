@@ -5,7 +5,7 @@ import Project from './Project.vue';
 
 <template>
 	<Window title="Projects.pptx">
-	    <div class="flex px-10 py-10 justify-center">
+	    <div class="flex px-10 py-10 justify-center max-sm:px-6">
 	      <div class="gap-5 flex flex-initial flex-row flex-nowrap overflow-x-auto scroll-smooth snap-x">
 	        <Project name="Field Alert" image="./images/field-alert.png">
 	          <ul class="list-disc list-inside">
