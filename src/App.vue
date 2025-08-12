@@ -8,11 +8,13 @@ import Education from './Education.vue'
 </script>
 
 <template>
-  <Hero />
-  <About class="mx-auto my-20 max-w-3xl"/>
-  <Skills class="mx-20 my-20"/>
-  <Projects class="mx-20 my-20"/>
-  <Education class="mx-auto my-20 w-fit"/>
+  <div class="p-10">
+    <Hero />
+    <About class="mx-auto my-20"/>
+    <Skills class="mx-auto max-w-fit my-20"/>
+    <Projects class="mx-auto my-20 max-w-fit"/>
+    <Education class="mx-auto my-20 max-w-fit"/>
+  </div>
 </template>
 
 <style scoped>

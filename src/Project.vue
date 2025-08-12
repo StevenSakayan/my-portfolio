@@ -6,7 +6,7 @@
 </script>
 
 <template>
-	<div class="carousel-item w-100 relative flex flex-col rounded-xl overflow-hidden flex-shrink-0 bg-slate-700">
+	<div class="w-100 relative flex flex-col rounded-xl overflow-hidden flex-shrink-0 bg-slate-700 snap-center">
 		<div class="aspect-video w-full">
 			<img class="w-full h-full object-cover" :src="props.image"/>
 		</div>
