@@ -14,7 +14,7 @@ export default defineConfig({
     tailwindcss(),
     svgLoader(),
   ],
-  base: "/my-portfolio/",
+  base: "https://stevensakayan.github.io/my-portfolio/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
