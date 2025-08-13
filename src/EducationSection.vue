@@ -91,10 +91,10 @@ import EducationSubList from './EducationSubList.vue'
         <div class="divider divider-vertical"></div>
         <h1 class="text-2xl mt-10 font-bold">Awards</h1>
 
-        <a class="font-bold link" href="/documents/2023 Executive Dean's Award-1.pdf" target="_blank">🏅 Executive Dean's Award - 2023</a>
+        <a class="font-bold link" href="./documents/2023 Executive Dean's Award-1.pdf" target="_blank">🏅 Executive Dean's Award - 2023</a>
         <h3 class="mb-5">Professor Lewis Bizo - Charles Sturt University</h3>
 
-        <a class="font-bold link" href="/documents/2024 Executive Dean's Award-1.pdf" target="_blank">🏅 Executive Dean's Award - 2024</a>
+        <a class="font-bold link" href="./documents/2024 Executive Dean's Award-1.pdf" target="_blank">🏅 Executive Dean's Award - 2024</a>
         <h3 class="">Professor Lewis Bizo - Charles Sturt University</h3>
       </div>
     </Window>
